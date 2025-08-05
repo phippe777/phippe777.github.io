@@ -1,4 +1,4 @@
-# 🌟 Portafolio de Karla Ortega  
+# 🌟 Portafolio de  Felipe Ortega  
 Este es el código de mi portafolio web, 
 donde presento mi experiencia, proyectos y servicios de desarrollo de software En lenguajes tales como;
 HTML, PHP, CSS, JS
@@ -16,6 +16,5 @@ HTML, PHP, CSS, JS
 - **Herramientas de Desarrollo:** XAMPP (Servidor Apache, PHP, MySQL)  (proyectos demo)
 
 #📬 Contacto  
-- 💼 LinkedIn: [Felipe Ortega](https://linkedin.com/in/karla-ortega)  
-- 🐙 GitHub: [Felipe Ortega](https://github.com/karlaortega)  
 - 📧 Email: Felipe.ortega@eia.edu.co
+
